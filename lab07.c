@@ -1,7 +1,7 @@
 /** lab07.c
 * ===========================================================
-* Name: first last
-* Section: 
+* Name: Candace Henderson
+* Section: M3A
 * Project: Lab07
 * Purpose: Verify install of CS210 software.
 * Documentation:  N/A
@@ -19,7 +19,7 @@ int main() {
 
     // TODO 1.0
     // Call cubeIt() with a value of 3 and print the result
-
+    printf("%d", cubeIt(3));
 
     // The following line prevents the debugging/run window
     // from immediately closeing.  You will need to hit enter
